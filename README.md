@@ -1,10 +1,6 @@
-![Pablo Alvarez Valencia. Economics, data and agentic tools. A path from an idea through human review to evidence.](assets/profile-banner.svg)
+![Pablo Alvarez Valencia — Economics at UAM, Mexico. I study multi-agent systems and build reliable tools to explore complex systems.](assets/profile-banner.png)
 
-# Pablo Alvarez Valencia
-
-Economics student at UAM, Mexico. I build data tools and explore how people and AI agents can work together.
-
-My public projects connect two interests: understanding data with Python and turning goals into interactive software with TypeScript.
+I study Economics at UAM in Mexico. I build learning tools and experiment with AI agents: how they coordinate, use tools, and handle mistakes.
 
 ## Selected work
 
